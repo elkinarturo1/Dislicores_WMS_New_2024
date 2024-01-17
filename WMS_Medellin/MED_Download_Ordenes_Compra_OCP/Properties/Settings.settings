@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MED_Download_Ordenes_Compra_OCP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strConexionSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=Sauron;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="nomConexionProceso" Type="System.String" Scope="User">
+      <Value Profile="(Default)">INTWMSMED_Download_OCP</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

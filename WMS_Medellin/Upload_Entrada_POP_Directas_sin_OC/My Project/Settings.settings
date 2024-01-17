@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="UPLOAD_Entrada_POP_Directas_WSUNOEE_WSUNOEE" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.105:8056/WSUNOEE_ODISEO_WMS_Bogota/WSUNOEE.ASMX</Value>
+    </Setting>
+    <Setting Name="UPLOAD_Entrada_POP_Directas_WSGT_wsGenerarPlano" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.54:8082/ServiciosWeb/wsGenerarPlano.asmx</Value>
+    </Setting>
+    <Setting Name="bitPruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="strConexionSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=WMS_DisReal;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL_Pruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=WMS_DisTest;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="EnviarDatosUNOEE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="strConexionSiesa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WSREAL</Value>
+    </Setting>
+    <Setting Name="strConexionSiesaPruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WSPRUEBABI</Value>
+    </Setting>
+    <Setting Name="strUsuarioSiesa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wms.integracion</Value>
+    </Setting>
+    <Setting Name="strClaveSiesa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wms2020</Value>
+    </Setting>
+    <Setting Name="nombreTareaInterface" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bog_Upload_Entradas_Desde_OC</Value>
+    </Setting>
+    <Setting Name="procedimientoPrincipal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sp_BOG_UPLOAD_Entrada_Desde_OC</Value>
+    </Setting>
+    <Setting Name="rutaPlanosGT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\PlanosGT\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

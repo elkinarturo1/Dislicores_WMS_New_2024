@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Download_Transferencias_TCO", "Download_Transferencias_TCO.vbproj", "{F134CA92-DB8E-46DE-AAAA-42DB171FE19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F134CA92-DB8E-46DE-AAAA-42DB171FE19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F134CA92-DB8E-46DE-AAAA-42DB171FE19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F134CA92-DB8E-46DE-AAAA-42DB171FE19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F134CA92-DB8E-46DE-AAAA-42DB171FE19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C7BE1C-102D-4610-A2DA-994BE7842636}
+	EndGlobalSection
+EndGlobal

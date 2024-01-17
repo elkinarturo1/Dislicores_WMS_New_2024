@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="cia_UNOEE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="bitPruebas" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.211;Initial Catalog=INTWMS;User ID=sa;Password=Sa123456;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL_Pruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=WMS_DisTest;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="EnviarDatosUNOEE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="conexion_UNOEE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WSREAL</Value>
+    </Setting>
+    <Setting Name="conexion_UNOEE_Pruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PRUEBAS_ATENEA</Value>
+    </Setting>
+    <Setting Name="usuario_UNOEE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wms.integracion</Value>
+    </Setting>
+    <Setting Name="clave_UNOEE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Wms2020</Value>
+    </Setting>
+    <Setting Name="nombreTareaInterface" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BOG_UPLOAD_Ajustes_AIC</Value>
+    </Setting>
+    <Setting Name="procedimientoPrincipal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sp_BOG_UPLOAD_Ajustes_AIC</Value>
+    </Setting>
+    <Setting Name="rutaPlanosGT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\PlanosGT\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

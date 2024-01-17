@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServidorCorreoSMTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="Puerto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="Ssl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UsuarioMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">siesa@dislicores.com</Value>
+    </Setting>
+    <Setting Name="PassMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D1sl1c0r3s2019</Value>
+    </Setting>
+    <Setting Name="CorreoRemitente" Type="System.String" Scope="User">
+      <Value Profile="(Default)">siesa@dislicores.com</Value>
+    </Setting>
+    <Setting Name="strDestinatarios" Type="System.String" Scope="User">
+      <Value Profile="(Default)">elkin.munoz@dislicores.com</Value>
+    </Setting>
+    <Setting Name="bitPruebas" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL_Pruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=WMS_DisTest;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=WMS_DistReal;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

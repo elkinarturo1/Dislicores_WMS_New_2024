@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Download_Storers.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="bitPruebas" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.211;Initial Catalog=INTWMS;User ID=sa;Password=Sa123456;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="strConexionSQL_Pruebas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=192.168.0.54;Initial Catalog=WMS_DisTest;User ID=sa;Password=D1sl1c0r3s;Integrated Security=False</Value>
+    </Setting>
+    <Setting Name="strConexionOracle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DSN=SIESAPOB;Uid=GT;Pwd=D1sl1c0r3s</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
